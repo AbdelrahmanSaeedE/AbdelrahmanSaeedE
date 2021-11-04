@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelrahmanSaeed
 - 👀 I’m interested in Data Analysis and Data science
-- 🌱 I’m currently learning Data Analsis
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me abdosaeedhti@gmail.com
 
